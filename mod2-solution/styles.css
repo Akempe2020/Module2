@@ -2,6 +2,11 @@ h1 {
   text-align: center;
 }
 
-p {
-  width: 33%;
+#box {
+  background-color: black;
+  padding: 2px 2px 2px 2px;
+}
+
+#content {
+  background-color: gray;
 }
