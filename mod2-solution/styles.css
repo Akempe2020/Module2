@@ -15,17 +15,19 @@ div {
 }
 
 h2 {
-  text-align: right;
+  text-align: center;
 }
 
 #first {
   background-color: pink;
+  background-position: right;
   margin: 0;
   width: 40%;
 }
 
 #second {
   background-color: #cd3d3d;
+  background-position: right;
   color: white;
   margin: 0;
   width: 20%;
@@ -33,6 +35,7 @@ h2 {
 
 #third {
   background-color: yellow;
+  background-position: right;
   margin: 0;
   width: 30%;
 }
