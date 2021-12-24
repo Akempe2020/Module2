@@ -18,18 +18,21 @@ h2 {
   text-align: right;
 }
 
-#h21 {
+#div1 {
   background-color: pink;
   margin: 0;
+  width: 40%;
 }
 
-#h22 {
+#div2 {
   background-color: #cd3d3d;
   color: white;
   margin: 0;
+  width: 20%;
 }
 
-#h23 {
+#div3 {
   background-color: yellow;
   margin: 0;
+  width: 30%;
 }
