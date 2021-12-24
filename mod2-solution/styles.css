@@ -18,20 +18,20 @@ h2 {
   text-align: right;
 }
 
-#div1 {
+#first {
   background-color: pink;
   margin: 0;
   width: 40%;
 }
 
-#div2 {
+#second {
   background-color: #cd3d3d;
   color: white;
   margin: 0;
   width: 20%;
 }
 
-#div3 {
+#third {
   background-color: yellow;
   margin: 0;
   width: 30%;
