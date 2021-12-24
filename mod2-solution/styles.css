@@ -7,8 +7,25 @@ h1 {
 }
 
 p {
-  width: 33%;
+  width: 30%;
   border: 2px solid black;
   float: left;
   background-color: gray;
+}
+
+h2 {
+  text-align: right;
+}
+
+#h21 {
+  background-color: pink;
+}
+
+#h22 {
+  background-color: red;
+  color: white;
+}
+
+#h23 {
+  background-color: beige;
 }
