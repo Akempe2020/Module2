@@ -11,10 +11,12 @@ div {
   border: 2px solid black;
   float: left;
   background-color: gray;
+  margin; 10px 9px 8px 7px;
 }
 
 h2 {
   text-align: right;
+  width: 10%;
 }
 
 #h21 {
@@ -23,7 +25,7 @@ h2 {
 }
 
 #h22 {
-  background-color: red;
+  background-color: #cd3d3d;
   color: white;
   margin: 0;
 }
