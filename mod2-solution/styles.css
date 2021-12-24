@@ -19,13 +19,16 @@ h2 {
 
 #h21 {
   background-color: pink;
+  margin: 0;
 }
 
 #h22 {
   background-color: red;
   color: white;
+  margin: 0;
 }
 
 #h23 {
-  background-color: beige;
+  background-color: yellow;
+  margin: 0;
 }
