@@ -11,12 +11,11 @@ div {
   border: 2px solid black;
   float: left;
   background-color: gray;
-  margin; 10px 9px 8px 7px;
+  margin; 16px 16px 16px 16px;
 }
 
 h2 {
   text-align: right;
-  width: 10%;
 }
 
 #h21 {
